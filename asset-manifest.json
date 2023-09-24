@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/deepansh_portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/deepansh_portfolio/static/js/main.012428b1.js",
+    "static/media/HeroImage.jpg": "/deepansh_portfolio/static/media/HeroImage.f902e95e602050979cdf.jpg",
+    "index.html": "/deepansh_portfolio/index.html",
+    "main.bf538fe7.css.map": "/deepansh_portfolio/static/css/main.bf538fe7.css.map",
+    "main.012428b1.js.map": "/deepansh_portfolio/static/js/main.012428b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.012428b1.js"
+  ]
+}
